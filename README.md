@@ -1,7 +1,13 @@
+NAME: GOPIKA A
+
+REG NO: 212224100017
+
 # EXP-2
+
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
+
 To conduct load test on separately excited generators and to obtain the characteristics
 
 Apparatus Required:
@@ -47,17 +53,19 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for calculation:
 
-Tabulation for Load Test:
+<img width="1073" height="832" alt="image" src="https://github.com/user-attachments/assets/4f3783f0-d006-441d-8a27-54fbc98c3828" />
 
-Model graph:
-Calculation: 
+<img width="1038" height="834" alt="image" src="https://github.com/user-attachments/assets/f740e7dc-85ef-4a13-a883-81f07633546e" />
 
-Open circuit characteristics
+<img width="1016" height="824" alt="image" src="https://github.com/user-attachments/assets/56ef22b2-604e-4ec0-9bfc-2796f0221b47" />
 
-  
-Load Characteristics:
+<img width="1920" height="1080" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/a886a4eb-feaa-4a63-adb6-d98e0e97e1df" />
+
+<img width="1920" height="1080" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/05e726a0-2d25-40d9-a8e5-ad809fb7299f" />
+
  
 Result:
+
 The load test on separately excited generators and to obtain the characteristics was verified.
